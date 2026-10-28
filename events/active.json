@@ -1,0 +1,59 @@
+{
+  "slug": "nellara-caters-and-events-thiruvananthapuram",
+  "name": "Nellara Caters & Events",
+  "shortName": "Nellara",
+  "descriptor": "Catering & Events",
+  "address": "South Rd, Mudavanmugal, Shastri Nagar, Poojapura, Thiruvananthapuram, Keralam 695012",
+  "area": "Poojapura",
+  "city": "Thiruvananthapuram",
+  "district": "Thiruvananthapuram",
+  "region": "Kerala",
+  "postalCode": "695012",
+  "geo": {
+    "lat": 8.4831025,
+    "lng": 76.98554
+  },
+  "mapsLink": "https://maps.google.com/?cid=14214824084563164598",
+  "phone": "+91 75102 24017",
+  "whatsapp": "917510224017",
+  "hours": "Open 24 hours · all days",
+  "opens": "00:00",
+  "closes": "23:59",
+  "rating": 5,
+  "reviewCount": 123,
+  "reviews": [
+    {
+      "name": "RAHUL S",
+      "rating": 5,
+      "quote": "We used nellara catering for our wedding, and their service was spectacular from start to finish. The food was absolutely delicious and beautifully presented,. The staff was professional, discreet, and ensured everything ran perfectly, allowing us to relax and enjoy our special day.\""
+    },
+    {
+      "name": "Geetha Anil",
+      "rating": 5,
+      "quote": "We had Nellara catering for our house warming function. They were very professional & gave us incredible service. Food was delicious ; received good comments from family and friends. Costwise very affordable They were very punctual & maintained good communication. 5 star from my side💯"
+    },
+    {
+      "name": "Bably Mechery",
+      "rating": 5,
+      "quote": "We planned a destination wedding in varkala, it was very difficult to find a event, finally found nellara through google, being outside the country it was difficult to manage everything.But trust me nellara events was one of our best choice, was more than our expectations, Done a brilliant and beautiful job.."
+    },
+    {
+      "name": "nipuraj 2010",
+      "rating": 5,
+      "quote": "Good and tasty food...good behaviour..... very hygenic......good packing .... customer satisfaction 100%trust ....highly recommend..."
+    },
+    {
+      "name": "Nandana Sajikumar",
+      "rating": 5,
+      "quote": "Good and tasty food cooked with utmost hygiene . Customer satisfaction is another attractive side of them.Most recommended for any function"
+    }
+  ],
+  "gallery": [
+    "gallery/01.webp",
+    "gallery/02.webp",
+    "gallery/03.webp",
+    "gallery/04.webp",
+    "gallery/05.webp"
+  ],
+  "url": "https://nellara-caters-and-events-thiruvana.vercel.app"
+}
